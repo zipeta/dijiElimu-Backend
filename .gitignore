@@ -1,9 +1,11 @@
 # FILES
 **/**/.pyc
 .DS_Store
+db.sqlite3
 
 # DIRECTORIES
 **/**/__pycache__
 .vscode/
 .pytest_cache
 src.egg-info
+venv
