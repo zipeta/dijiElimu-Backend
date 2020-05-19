@@ -1,5 +1,6 @@
 A one-liner phrase describing this project or app
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d9fc5a8b6964f2d8dea9bb1e8fec9e4)](https://app.codacy.com/gh/BuildForSDG/dijiElimu-Backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/dijiElimu-Backend&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 
